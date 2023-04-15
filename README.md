@@ -13,4 +13,5 @@ RMC-RFA is designed for interactive use in a multi-tasking environment. The soft
 * [ANCOLD 2018 - A Robust and Efficient Stochastic Simulation Framework for Estimating Reservoir Stage-Frequency Curves with Uncertainty Bounds](https://github.com/USACE-RMC/RMC-RFA/files/11240499/ANCOLD.2018.-.Stochastic.simulation.framework.-.HadenSmith.-.9-12-18.pdf)
 
 ## Training
-* [2021 RMC-BestFit and RMC-RFA Training Videos] https://www.youtube.com/playlist?list=PLEIlpoX-ZknTLKrNq7qeVrCIxT_QtLLSF
+* [2021 RMC-BestFit and RMC-RFA Training Videos](https://www.youtube.com/playlist?list=PLEIlpoX-ZknTLKrNq7qeVrCIxT_QtLLSF)
+* [Risk Management Center Training Center](https://www.rmc.usace.army.mil/Training/)
