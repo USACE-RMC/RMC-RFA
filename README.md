@@ -7,7 +7,7 @@ RMC-RFA is designed for interactive use in a multi-tasking environment. The soft
 ![RFA](https://user-images.githubusercontent.com/123974306/232250351-5aabe7fb-a25e-4657-b9ba-d2baec168382.png)
 
 ## Downloads
-* [Download Version 1.1.0](https://github.com/USArmy-Corps-of-Engineers-RMC/RMC-RFA/blob/41a2cd36ddce1573ba00f1bbbcde0f57d9e1d96b/RMC-RFA%20Version%201.1.0.zip)
+* [Download Version 1.1.0](https://github.com/USACE-RMC/RMC-RFA/blob/41a2cd36ddce1573ba00f1bbbcde0f57d9e1d96b/RMC-RFA%20Version%201.1.0.zip)
 
 Version 2.0 is currently under development and expected to be released in 2024. New features will include:
 * The ability to import frequency curve results from RMC-BestFit
@@ -15,8 +15,8 @@ Version 2.0 is currently under development and expected to be released in 2024. 
 * Complex reservoir operations
 
 ## Documentation
-* [RMC-TR-2018-03 - An Inflow Volume-Based Approach to Estimating Stage-Frequency Curves for Dams](https://github.com/USArmy-Corps-of-Engineers-RMC/RMC-RFA/files/12743562/RMC-TR-2018-03.-.SQRA.HHA.Methodology.-.Stage-Frequency.pdf)
-* [ANCOLD 2018 - A Robust and Efficient Stochastic Simulation Framework for Estimating Reservoir Stage-Frequency Curves with Uncertainty Bounds](https://github.com/USArmy-Corps-of-Engineers-RMC/RMC-RFA/files/12743566/ANCOLD.2018.-.Stochastic.simulation.framework.-.HadenSmith.-.9-12-18.pdf)
+* [RMC-TR-2018-03 - An Inflow Volume-Based Approach to Estimating Stage-Frequency Curves for Dams](https://github.com/USACE-RMC/RMC-RFA/files/12743562/RMC-TR-2018-03.-.SQRA.HHA.Methodology.-.Stage-Frequency.pdf)
+* [ANCOLD 2018 - A Robust and Efficient Stochastic Simulation Framework for Estimating Reservoir Stage-Frequency Curves with Uncertainty Bounds](https://github.com/USACE-RMC/RMC-RFA/files/12743566/ANCOLD.2018.-.Stochastic.simulation.framework.-.HadenSmith.-.9-12-18.pdf)
 
 ## Training
 * [2021 RMC-BestFit and RMC-RFA Training Videos](https://www.youtube.com/playlist?list=PLEIlpoX-ZknTLKrNq7qeVrCIxT_QtLLSF)
